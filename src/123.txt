@@ -1,0 +1,150 @@
+pPlanStartPoint-1  X[55.000000] Y[448.000000]!
+pPlanStartPoint-2  X[55.000000] Y[448.000000]!
+pPlanStartPoint cardesian_point  X[55.000000] Y[448.000000]!
+gSlPlanStartPoint  S[0.000000] L[2.949039]!
+pPlanStartPoint-3  X[55.000000] Y[448.000000]!
+pPlanStartPoint cardesian_point  X[74.000000] Y[456.000000]!
+iter   objective    pri res    dua res    rho        time
+   1  -1.3818e+06   3.29e+00   7.10e+05   1.00e-01   7.62e-04s
+  25  -7.7857e+05   5.28e-04   3.37e+00   1.00e-01   9.48e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -778569.7952
+run time:             9.77e-04s
+optimal rho estimate: 6.46e-02
+
+[INFO] [1728747338.821207830] [EMplannerNode]: EMPLANNER TEST GLOABLE-SIZE(2054)!
+
+iter   objective    pri res    dua res    rho        time
+   1  -9.5293e+07   3.13e-02   9.15e-02   1.00e-01   3.63e-05s
+  25  -9.5293e+07   3.25e-05   1.12e-05   1.00e-01   1.94e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -95292689.7095
+run time:             2.04e-04s
+optimal rho estimate: 3.28e-01
+
+pPlanStartPoint-1  X[60.842334] Y[448.529707]!
+pPlanStartPoint-2  X[60.842334] Y[448.529707]!
+pPlanStartPoint cardesian_point  X[60.842334] Y[448.529707]!
+gSlPlanStartPoint  S[5.012600] L[0.145342]!
+pPlanStartPoint-3  X[60.842334] Y[448.529707]!
+pPlanStartPoint cardesian_point  X[74.000000] Y[456.000000]!
+pPlanStartPoint cardesian_point  X[82.000000] Y[462.000000]!
+pPlanStartPoint cardesian_point  X[87.000000] Y[468.000000]!
+pPlanStartPoint cardesian_point  X[94.000000] Y[476.000000]!
+iter   objective    pri res    dua res    rho        time
+   1  -7.7855e+05   2.80e+00   6.69e+05   1.00e-01   1.00e-04s
+  25  -1.1924e+06   4.93e-04   3.17e+00   1.00e-01   2.71e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -1192414.7722
+run time:             2.95e-04s
+optimal rho estimate: 6.20e-02
+
+[INFO] [1728747339.025188840] [EMplannerNode]: EMPLANNER TEST GLOABLE-SIZE(2054)!
+
+iter   objective    pri res    dua res    rho        time
+   1  -9.5293e+07   2.43e-05   9.57e-06   1.00e-01   5.76e-05s
+  25  -9.5293e+07   2.12e-08   7.89e-09   1.00e-01   3.02e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -95292689.7094
+run time:             3.18e-04s
+optimal rho estimate: 4.62e-02
+
+pPlanStartPoint-1  X[66.064899] Y[449.456422]!
+pPlanStartPoint-2  X[66.064899] Y[449.456422]!
+pPlanStartPoint cardesian_point  X[66.064899] Y[449.456422]!
+gSlPlanStartPoint  S[5.003306] L[-1.605545]!
+pPlanStartPoint-3  X[66.064899] Y[449.456422]!
+pPlanStartPoint cardesian_point  X[74.000000] Y[456.000000]!
+pPlanStartPoint cardesian_point  X[82.000000] Y[462.000000]!
+pPlanStartPoint cardesian_point  X[87.000000] Y[468.000000]!
+pPlanStartPoint cardesian_point  X[94.000000] Y[476.000000]!
+iter   objective    pri res    dua res    rho        time
+   1  -1.1924e+06   1.75e+00   4.18e+05   1.00e-01   1.31e-04s
+  25  -1.3534e+06   3.08e-04   1.98e+00   1.00e-01   5.25e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -1353420.3129
+run time:             6.01e-04s
+optimal rho estimate: 6.11e-02
+
+[INFO] [1728747339.237459188] [EMplannerNode]: EMPLANNER TEST GLOABLE-SIZE(2054)!
+
+iter   objective    pri res    dua res    rho        time
+   1  -9.5293e+07   1.58e-08   5.87e-09   1.00e-01   9.42e-05s
+  25  -9.5293e+07   1.39e-11   1.19e-11   1.00e-01   3.94e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -95292689.7094
+run time:             4.55e-04s
+optimal rho estimate: 1.19e-03
+
+pPlanStartPoint-1  X[70.959068] Y[450.994414]!
+pPlanStartPoint-2  X[70.959068] Y[450.994414]!
+pPlanStartPoint cardesian_point  X[70.959068] Y[450.994414]!
+gSlPlanStartPoint  S[4.992844] L[-2.695065]!
+pPlanStartPoint-3  X[70.959068] Y[450.994414]!
+pPlanStartPoint cardesian_point  X[74.000000] Y[456.000000]!
+pPlanStartPoint cardesian_point  X[82.000000] Y[462.000000]!
+pPlanStartPoint cardesian_point  X[87.000000] Y[468.000000]!
+pPlanStartPoint cardesian_point  X[94.000000] Y[476.000000]!
+iter   objective    pri res    dua res    rho        time
+   1  -1.3534e+06   1.09e+00   2.60e+05   1.00e-01   1.61e-03s
+  25  -1.4158e+06   1.91e-04   1.23e+00   1.00e-01   2.01e-03s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -1415790.2969
+run time:             2.09e-03s
+optimal rho estimate: 6.11e-02
+
+[INFO] [1728747339.425782623] [EMplannerNode]: EMPLANNER TEST GLOABLE-SIZE(2054)!
+
+iter   objective    pri res    dua res    rho        time
+   1  -9.6282e+07   4.23e-01   3.70e+00   1.00e-01   1.28e-04s
+  25  -9.6282e+07   2.13e-05   4.81e-05   1.00e-01   5.44e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -96282012.2289
+run time:             6.26e-04s
+optimal rho estimate: 1.33e-01
+
+pPlanStartPoint-1  X[75.651254] Y[453.009065]!
+pPlanStartPoint-2  X[75.651254] Y[453.009065]!
+pPlanStartPoint cardesian_point  X[75.651254] Y[453.009065]!
+gSlPlanStartPoint  S[4.999207] L[-3.371391]!
+pPlanStartPoint-3  X[75.651254] Y[453.009065]!
+pPlanStartPoint cardesian_point  X[74.000000] Y[456.000000]!
+pPlanStartPoint cardesian_point  X[82.000000] Y[462.000000]!
+pPlanStartPoint cardesian_point  X[87.000000] Y[468.000000]!
+iter   objective    pri res    dua res    rho        time
+   1  -1.4158e+06   6.76e-01   1.61e+05   1.00e-01   7.14e-05s
+  25  -1.4399e+06   1.19e-04   7.65e-01   1.00e-01   2.41e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -1439912.1000
+run time:             2.70e-04s
+optimal rho estimate: 6.11e-02
+
+[INFO] [1728747339.595288279] [EMplannerNode]: EMPLANNER TEST GLOABLE-SIZE(2054)!
+
+iter   objective    pri res    dua res    rho        time
+   1  -9.7955e+07   7.80e-01   6.66e+00   1.00e-01   4.81e-05s
+  25  -9.7955e+07   6.90e-05   6.09e-05   1.00e-01   2.36e-04s
+
+status:               solved
+number of iterations: 25
+optimal objective:    -97954892.5794
+run time:             2.69e-04s
+optimal rho estimate: 2.13e-01
